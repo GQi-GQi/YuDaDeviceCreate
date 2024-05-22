@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="YuDa_DeviceCreate.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaudRate" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DataBits" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Parity" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StopBits" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Serial" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ProductName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Printer" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ProductDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PrintItemJson" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[{"item":"型号：YD301","canDel":true},{"item":"MAC地址：{机器读取}","canDel":false},{"item":"硬件版本：{硬件版本号}","canDel":false},{"item":"电压：DC 9V-36V","canDel":true},{"item":"额定功率：6W","canDel":true},{"item":"温度：-20℃~+85℃","canDel":true},{"item":"产地：中国","canDel":true}]</Value>
+    </Setting>
+    <Setting Name="IotInstanceID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BootloaderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PartitionTablePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ProgramPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BootloaderAddr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0x1000</Value>
+    </Setting>
+    <Setting Name="PartitionTableAddr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0x8000</Value>
+    </Setting>
+    <Setting Name="ProgramAddr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0x10000</Value>
+    </Setting>
+    <Setting Name="HardwareVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hv1.0</Value>
+    </Setting>
+    <Setting Name="PcntInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30000</Value>
+    </Setting>
+    <Setting Name="LoginID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PrintTemplate2Count" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PrintTemplate1Count" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="OpenPrintTemplate1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="OpenPrintTemplate2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Template1QRCodeUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://boxcode.yudabox.net/Device.html?code=</Value>
+    </Setting>
+    <Setting Name="Template2QRCodeUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://boxcode.yudabox.net/Device.html?codetype=1&amp;code=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
